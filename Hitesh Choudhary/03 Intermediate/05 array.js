@@ -14,11 +14,13 @@ var user = ["hitesh", "hitesh@lco.dev", 3, 34, true]; // this is not a good prac
 user.pop(); // deletes the last element
 user.pop();
 //console.log(user);
-user.unshift("NEW VALUE");
-//console.log(user);
-user.shift();
-console.log(user);
 
-console.log(user.indexOf("newyy"));
+user.unshift("NEW VALUE"); // adds an element at the beginning (index 0)
+//console.log(user);
+
+user.shift(); // removes the element at the beginning (index 0)
+// console.log(user);
+
+console.log(user.indexOf("bruh")); // if the element exists then user.indexOf will return the position of the element else it'll return -1
 
 console.log(Array.from("hitesh"));
