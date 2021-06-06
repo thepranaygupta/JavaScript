@@ -1,3 +1,4 @@
+// refer to https://youtu.be/Tny4_-QjNHg?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD
 var isEven = (element) => {
     //   if (element % 2 === 0) {
     //     return true;
