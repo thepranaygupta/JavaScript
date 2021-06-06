@@ -23,4 +23,4 @@ user.shift(); // removes the element at the beginning (index 0)
 
 console.log(user.indexOf("bruh")); // if the element exists then user.indexOf will return the position of the element else it'll return -1
 
-console.log(Array.from("hitesh"));
+console.log(Array.from("Pranay")); // Array.from converts the string into a character array of the individual alphabets of the string that is passed
