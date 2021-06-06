@@ -1,3 +1,4 @@
+// REFER TO: https://youtu.be/QAFjcAxcNcY?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD
 const myStates = [
     "Rajasthan",
     "Delhi",
