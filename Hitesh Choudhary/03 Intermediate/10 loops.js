@@ -24,3 +24,4 @@ const myStates = [
 //     i++;
 // } while (i < 10);
 
+myStates.forEach((s) => console.log(s))
